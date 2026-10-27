@@ -1,0 +1,46 @@
+input_video: input/N21_TWEEN_cam_cal.avi
+output_root: output
+
+# Exact retained V06 geometry/correction settings.
+expected_input:
+  width: 1520
+  height: 2704
+  frame_count: 8097
+  fps: 240.0
+
+geometry:
+  output_width: 1024
+  output_height: 1024
+  rectified_square_size: 512
+  chamber_width_mm: 40.0
+  rectified_px_per_mm: 12.8
+  timeline: linear
+  pass1_anchor_smoothing_window: 1
+  pass2_anchor_smoothing_window: 3
+  max_residual_corner_shift_warning_px: 25.0
+
+reference_2point:
+  timeline: linear
+  annotation_smoothing_window: 3
+  render_smoothing_window: 1
+  reference_mode: median
+  minimum_reference_distance: 200.0
+  max_scale_warning_percent: 2.0
+  max_angle_warning_deg: 1.0
+  max_translation_warning_px: 10.0
+
+white_reference:
+  enabled: true
+  id: WR000001
+  calibration_directory: v06_assets/white_reference/WR000001
+  flatfield_sigma: 50.0
+  flatfield_strength: 0.7
+  gain_clip: [0.5, 2.0]
+  wb_gain_clip: [0.7, 1.4]
+  temporal_median: 3
+
+runtime:
+  preview_fps: 20.0
+  source_fps: 240.0
+  rectified_fps: 240.0
+

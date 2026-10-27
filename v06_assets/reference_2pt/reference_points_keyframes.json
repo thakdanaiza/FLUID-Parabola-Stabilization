@@ -1,0 +1,588 @@
+{
+  "note": "2-point reference annotations on final 4+4 rectified video.",
+  "reference_video": "C:\\Users\\fifa-\\Downloads\\Compressed\\Rewrite_MS_FLUID_Combine\\Chamber Tracking\\N21_TWEEN_cam_cal_20260625_043530_smooth_linear_20260625_045606_final_4plus4_20260701_054743\\tracked_full_frame_rectified.mp4",
+  "point_order": [
+    "A",
+    "B"
+  ],
+  "keyframes": [
+    {
+      "processed": 0,
+      "frame_index": 0,
+      "time_sec": 0.0,
+      "points": [
+        [
+          257.0,
+          255.0
+        ],
+        [
+          769.0,
+          256.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 240,
+      "frame_index": 240,
+      "time_sec": 0.999984,
+      "points": [
+        [
+          256.0,
+          256.0
+        ],
+        [
+          765.0,
+          260.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 480,
+      "frame_index": 480,
+      "time_sec": 1.999968,
+      "points": [
+        [
+          256.0,
+          256.0
+        ],
+        [
+          767.0,
+          256.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 720,
+      "frame_index": 720,
+      "time_sec": 2.999952,
+      "points": [
+        [
+          253.0,
+          256.0
+        ],
+        [
+          765.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 960,
+      "frame_index": 960,
+      "time_sec": 3.999936,
+      "points": [
+        [
+          259.0,
+          257.0
+        ],
+        [
+          766.0,
+          261.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 1200,
+      "frame_index": 1200,
+      "time_sec": 4.9999199999999995,
+      "points": [
+        [
+          257.0,
+          258.0
+        ],
+        [
+          765.0,
+          259.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 1440,
+      "frame_index": 1440,
+      "time_sec": 5.999904,
+      "points": [
+        [
+          256.0,
+          255.0
+        ],
+        [
+          771.0,
+          253.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 1680,
+      "frame_index": 1680,
+      "time_sec": 6.999887999999999,
+      "points": [
+        [
+          259.0,
+          256.0
+        ],
+        [
+          771.0,
+          259.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 1920,
+      "frame_index": 1920,
+      "time_sec": 7.999872,
+      "points": [
+        [
+          256.0,
+          257.0
+        ],
+        [
+          765.0,
+          258.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 2160,
+      "frame_index": 2160,
+      "time_sec": 8.999856,
+      "points": [
+        [
+          254.0,
+          256.0
+        ],
+        [
+          764.0,
+          257.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 2400,
+      "frame_index": 2400,
+      "time_sec": 9.999839999999999,
+      "points": [
+        [
+          258.0,
+          256.0
+        ],
+        [
+          768.0,
+          259.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 2640,
+      "frame_index": 2640,
+      "time_sec": 10.999824,
+      "points": [
+        [
+          256.0,
+          254.0
+        ],
+        [
+          764.0,
+          257.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 2880,
+      "frame_index": 2880,
+      "time_sec": 11.999808,
+      "points": [
+        [
+          257.0,
+          256.0
+        ],
+        [
+          766.0,
+          256.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 3120,
+      "frame_index": 3120,
+      "time_sec": 12.999792,
+      "points": [
+        [
+          259.0,
+          257.0
+        ],
+        [
+          770.0,
+          257.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 3360,
+      "frame_index": 3360,
+      "time_sec": 13.999775999999999,
+      "points": [
+        [
+          258.0,
+          255.0
+        ],
+        [
+          770.0,
+          259.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 3600,
+      "frame_index": 3600,
+      "time_sec": 14.999759999999998,
+      "points": [
+        [
+          259.0,
+          255.0
+        ],
+        [
+          768.0,
+          258.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 3840,
+      "frame_index": 3840,
+      "time_sec": 15.999744,
+      "points": [
+        [
+          256.0,
+          253.0
+        ],
+        [
+          772.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 4080,
+      "frame_index": 4080,
+      "time_sec": 16.999727999999998,
+      "points": [
+        [
+          261.0,
+          258.0
+        ],
+        [
+          767.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 4320,
+      "frame_index": 4320,
+      "time_sec": 17.999712,
+      "points": [
+        [
+          255.0,
+          255.0
+        ],
+        [
+          768.0,
+          256.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 4560,
+      "frame_index": 4560,
+      "time_sec": 18.999696,
+      "points": [
+        [
+          260.0,
+          261.0
+        ],
+        [
+          766.0,
+          260.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 4800,
+      "frame_index": 4800,
+      "time_sec": 19.999679999999998,
+      "points": [
+        [
+          261.0,
+          261.0
+        ],
+        [
+          765.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 5040,
+      "frame_index": 5040,
+      "time_sec": 20.999664,
+      "points": [
+        [
+          259.0,
+          259.0
+        ],
+        [
+          766.0,
+          260.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 5280,
+      "frame_index": 5280,
+      "time_sec": 21.999648,
+      "points": [
+        [
+          259.0,
+          258.0
+        ],
+        [
+          764.0,
+          260.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 5520,
+      "frame_index": 5520,
+      "time_sec": 22.999632,
+      "points": [
+        [
+          259.0,
+          257.0
+        ],
+        [
+          771.0,
+          252.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 5760,
+      "frame_index": 5760,
+      "time_sec": 23.999616,
+      "points": [
+        [
+          259.0,
+          257.0
+        ],
+        [
+          768.0,
+          257.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 6000,
+      "frame_index": 6000,
+      "time_sec": 24.999599999999997,
+      "points": [
+        [
+          260.0,
+          257.0
+        ],
+        [
+          767.0,
+          253.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 6240,
+      "frame_index": 6240,
+      "time_sec": 25.999584,
+      "points": [
+        [
+          262.0,
+          255.0
+        ],
+        [
+          764.0,
+          259.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 6480,
+      "frame_index": 6480,
+      "time_sec": 26.999568,
+      "points": [
+        [
+          258.0,
+          259.0
+        ],
+        [
+          771.0,
+          254.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 6720,
+      "frame_index": 6720,
+      "time_sec": 27.999551999999998,
+      "points": [
+        [
+          258.0,
+          258.0
+        ],
+        [
+          765.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 6960,
+      "frame_index": 6960,
+      "time_sec": 28.999536,
+      "points": [
+        [
+          257.0,
+          258.0
+        ],
+        [
+          758.0,
+          255.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 7200,
+      "frame_index": 7200,
+      "time_sec": 29.999519999999997,
+      "points": [
+        [
+          256.0,
+          256.0
+        ],
+        [
+          766.0,
+          252.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 7440,
+      "frame_index": 7440,
+      "time_sec": 30.999503999999998,
+      "points": [
+        [
+          260.0,
+          252.0
+        ],
+        [
+          767.0,
+          256.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 7680,
+      "frame_index": 7680,
+      "time_sec": 31.999488,
+      "points": [
+        [
+          263.0,
+          252.0
+        ],
+        [
+          766.0,
+          253.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    },
+    {
+      "processed": 7920,
+      "frame_index": 7920,
+      "time_sec": 32.999472,
+      "points": [
+        [
+          265.0,
+          248.0
+        ],
+        [
+          767.0,
+          252.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "2-point-reference"
+    }
+  ]
+}

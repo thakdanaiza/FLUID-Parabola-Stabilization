@@ -1,0 +1,993 @@
+{
+  "note": "Guide mode is per manual keyframe only. Press 3 only when BL is missing, then click TL/TR/BR plus a guide point on the visible BR->BL edge. The next keyframe defaults back to 4-point mode.",
+  "keyframes": [
+    {
+      "processed": 0,
+      "frame_index": 0,
+      "time_sec": 0.0,
+      "corners": [
+        [
+          257.0,
+          260.0
+        ],
+        [
+          768.0,
+          255.0
+        ],
+        [
+          768.0,
+          774.0
+        ],
+        [
+          256.0,
+          769.0
+        ]
+      ],
+      "source": "initial",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 240,
+      "frame_index": 240,
+      "time_sec": 1.0,
+      "corners": [
+        [
+          257.0,
+          258.0
+        ],
+        [
+          768.0,
+          257.0
+        ],
+        [
+          769.0,
+          774.0
+        ],
+        [
+          256.0,
+          767.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 480,
+      "frame_index": 480,
+      "time_sec": 2.0,
+      "corners": [
+        [
+          257.0,
+          259.0
+        ],
+        [
+          770.0,
+          256.0
+        ],
+        [
+          769.0,
+          772.0
+        ],
+        [
+          253.0,
+          768.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 720,
+      "frame_index": 720,
+      "time_sec": 3.0,
+      "corners": [
+        [
+          256.0,
+          255.0
+        ],
+        [
+          768.0,
+          255.0
+        ],
+        [
+          769.0,
+          770.0
+        ],
+        [
+          257.0,
+          768.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 960,
+      "frame_index": 960,
+      "time_sec": 4.0,
+      "corners": [
+        [
+          257.0,
+          259.0
+        ],
+        [
+          768.0,
+          259.0
+        ],
+        [
+          772.0,
+          769.0
+        ],
+        [
+          255.0,
+          765.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1200,
+      "frame_index": 1200,
+      "time_sec": 5.0,
+      "corners": [
+        [
+          257.0,
+          260.0
+        ],
+        [
+          771.0,
+          260.0
+        ],
+        [
+          766.0,
+          773.0
+        ],
+        [
+          257.0,
+          769.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1440,
+      "frame_index": 1440,
+      "time_sec": 6.0,
+      "corners": [
+        [
+          257.0,
+          260.0
+        ],
+        [
+          769.0,
+          255.0
+        ],
+        [
+          773.0,
+          771.0
+        ],
+        [
+          258.0,
+          771.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1680,
+      "frame_index": 1680,
+      "time_sec": 7.0,
+      "corners": [
+        [
+          259.0,
+          257.0
+        ],
+        [
+          765.0,
+          259.0
+        ],
+        [
+          768.0,
+          767.0
+        ],
+        [
+          259.05718994140625,
+          768.3358154296875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        387.0,
+        768.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 1920,
+      "frame_index": 1920,
+      "time_sec": 8.0,
+      "corners": [
+        [
+          258.0,
+          256.0
+        ],
+        [
+          767.0,
+          256.0
+        ],
+        [
+          769.0,
+          766.0
+        ],
+        [
+          257.0618896484375,
+          770.510498046875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        315.0,
+        770.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2160,
+      "frame_index": 2160,
+      "time_sec": 9.0,
+      "corners": [
+        [
+          256.0,
+          260.0
+        ],
+        [
+          769.0,
+          259.0
+        ],
+        [
+          769.0,
+          763.0
+        ],
+        [
+          253.02264404296875,
+          760.7711791992188
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        306.0,
+        761.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2400,
+      "frame_index": 2400,
+      "time_sec": 10.0,
+      "corners": [
+        [
+          260.0,
+          259.0
+        ],
+        [
+          768.0,
+          258.0
+        ],
+        [
+          768.0,
+          767.0
+        ],
+        [
+          257.08160400390625,
+          761.0452270507812
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        339.0,
+        762.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2640,
+      "frame_index": 2640,
+      "time_sec": 11.0,
+      "corners": [
+        [
+          258.0,
+          259.0
+        ],
+        [
+          769.0,
+          258.0
+        ],
+        [
+          769.0,
+          764.0
+        ],
+        [
+          255.03082275390625,
+          765.162841796875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        327.0,
+        765.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2880,
+      "frame_index": 2880,
+      "time_sec": 12.0,
+      "corners": [
+        [
+          256.0,
+          260.0
+        ],
+        [
+          775.0,
+          256.0
+        ],
+        [
+          773.0,
+          774.0
+        ],
+        [
+          250.97357177734375,
+          771.7053833007812
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        318.0,
+        772.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 3120,
+      "frame_index": 3120,
+      "time_sec": 13.0,
+      "corners": [
+        [
+          256.0,
+          259.0
+        ],
+        [
+          782.0,
+          247.0
+        ],
+        [
+          778.0,
+          780.0
+        ],
+        [
+          242.0,
+          766.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 3360,
+      "frame_index": 3360,
+      "time_sec": 14.0,
+      "corners": [
+        [
+          257.0,
+          259.0
+        ],
+        [
+          781.0,
+          259.0
+        ],
+        [
+          778.0,
+          775.0
+        ],
+        [
+          240.0,
+          766.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 3600,
+      "frame_index": 3600,
+      "time_sec": 15.0,
+      "corners": [
+        [
+          259.0,
+          262.0
+        ],
+        [
+          775.0,
+          260.0
+        ],
+        [
+          773.0,
+          771.0
+        ],
+        [
+          243.0,
+          767.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 3840,
+      "frame_index": 3840,
+      "time_sec": 16.0,
+      "corners": [
+        [
+          256.0,
+          257.0
+        ],
+        [
+          775.0,
+          253.0
+        ],
+        [
+          776.0,
+          773.0
+        ],
+        [
+          234.0,
+          767.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 4080,
+      "frame_index": 4080,
+      "time_sec": 17.0,
+      "corners": [
+        [
+          260.0,
+          260.0
+        ],
+        [
+          765.0,
+          258.0
+        ],
+        [
+          775.0,
+          776.0
+        ],
+        [
+          246.0,
+          774.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 4320,
+      "frame_index": 4320,
+      "time_sec": 18.0,
+      "corners": [
+        [
+          255.0,
+          257.0
+        ],
+        [
+          767.0,
+          259.0
+        ],
+        [
+          780.0,
+          765.0
+        ],
+        [
+          243.7679443359375,
+          775.5765991210938
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        273.0,
+        775.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4560,
+      "frame_index": 4560,
+      "time_sec": 19.0,
+      "corners": [
+        [
+          259.0,
+          259.0
+        ],
+        [
+          768.0,
+          261.0
+        ],
+        [
+          775.0,
+          774.0
+        ],
+        [
+          241.81072998046875,
+          771.7921752929688
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        292.0,
+        772.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4800,
+      "frame_index": 4800,
+      "time_sec": 20.0,
+      "corners": [
+        [
+          259.0,
+          260.0
+        ],
+        [
+          763.0,
+          253.0
+        ],
+        [
+          770.0,
+          763.0
+        ],
+        [
+          242.0933837890625,
+          773.08740234375
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        299.0,
+        772.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5040,
+      "frame_index": 5040,
+      "time_sec": 21.0,
+      "corners": [
+        [
+          256.0,
+          256.0
+        ],
+        [
+          763.0,
+          259.0
+        ],
+        [
+          762.0,
+          766.0
+        ],
+        [
+          230.9266357421875,
+          760.3017578125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        296.0,
+        761.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5280,
+      "frame_index": 5280,
+      "time_sec": 22.0,
+      "corners": [
+        [
+          257.0,
+          256.0
+        ],
+        [
+          768.0,
+          262.0
+        ],
+        [
+          757.0,
+          769.0
+        ],
+        [
+          221.74114990234375,
+          760.80126953125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        300.0,
+        762.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5520,
+      "frame_index": 5520,
+      "time_sec": 23.0,
+      "corners": [
+        [
+          257.0,
+          257.0
+        ],
+        [
+          766.0,
+          257.0
+        ],
+        [
+          761.0,
+          766.0
+        ],
+        [
+          227.81158447265625,
+          767.177001953125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        308.0,
+        767.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5760,
+      "frame_index": 5760,
+      "time_sec": 24.0,
+      "corners": [
+        [
+          256.0,
+          258.0
+        ],
+        [
+          762.0,
+          264.0
+        ],
+        [
+          756.0,
+          764.0
+        ],
+        [
+          243.0,
+          766.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6000,
+      "frame_index": 6000,
+      "time_sec": 25.0,
+      "corners": [
+        [
+          253.0,
+          259.0
+        ],
+        [
+          767.0,
+          262.0
+        ],
+        [
+          761.0,
+          763.0
+        ],
+        [
+          247.0,
+          754.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6240,
+      "frame_index": 6240,
+      "time_sec": 26.0,
+      "corners": [
+        [
+          258.0,
+          258.0
+        ],
+        [
+          761.0,
+          266.0
+        ],
+        [
+          754.0,
+          752.0
+        ],
+        [
+          259.0,
+          755.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6480,
+      "frame_index": 6480,
+      "time_sec": 27.0,
+      "corners": [
+        [
+          257.0,
+          262.0
+        ],
+        [
+          769.0,
+          259.0
+        ],
+        [
+          768.0,
+          768.0
+        ],
+        [
+          259.0,
+          763.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6720,
+      "frame_index": 6720,
+      "time_sec": 28.0,
+      "corners": [
+        [
+          257.0,
+          255.0
+        ],
+        [
+          766.0,
+          263.0
+        ],
+        [
+          763.0,
+          749.0
+        ],
+        [
+          259.0,
+          757.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6960,
+      "frame_index": 6960,
+      "time_sec": 29.0,
+      "corners": [
+        [
+          261.0,
+          263.0
+        ],
+        [
+          763.0,
+          265.0
+        ],
+        [
+          768.0,
+          761.0
+        ],
+        [
+          273.0,
+          762.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7200,
+      "frame_index": 7200,
+      "time_sec": 30.0,
+      "corners": [
+        [
+          260.0,
+          260.0
+        ],
+        [
+          762.0,
+          257.0
+        ],
+        [
+          769.0,
+          763.0
+        ],
+        [
+          259.0,
+          761.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7440,
+      "frame_index": 7440,
+      "time_sec": 31.0,
+      "corners": [
+        [
+          257.0,
+          260.0
+        ],
+        [
+          766.0,
+          260.0
+        ],
+        [
+          766.0,
+          760.0
+        ],
+        [
+          256.0,
+          769.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7680,
+      "frame_index": 7680,
+      "time_sec": 32.0,
+      "corners": [
+        [
+          253.0,
+          266.0
+        ],
+        [
+          763.0,
+          263.0
+        ],
+        [
+          762.0,
+          771.0
+        ],
+        [
+          254.0,
+          762.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7920,
+      "frame_index": 7920,
+      "time_sec": 33.0,
+      "corners": [
+        [
+          249.0,
+          269.0
+        ],
+        [
+          767.0,
+          267.0
+        ],
+        [
+          763.0,
+          758.0
+        ],
+        [
+          264.0,
+          764.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    }
+  ]
+}

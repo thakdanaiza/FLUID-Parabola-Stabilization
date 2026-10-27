@@ -1,0 +1,1020 @@
+{
+  "note": "Guide mode is per manual keyframe only. Press 3 only when BL is missing, then click TL/TR/BR plus a guide point on the visible BR->BL edge. The next keyframe defaults back to 4-point mode.",
+  "keyframes": [
+    {
+      "processed": 0,
+      "frame_index": 0,
+      "time_sec": 0.0,
+      "corners": [
+        [
+          50.0,
+          644.0
+        ],
+        [
+          1069.0,
+          612.0
+        ],
+        [
+          1037.0,
+          1712.0
+        ],
+        [
+          37.0,
+          1648.0
+        ]
+      ],
+      "source": "initial",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 240,
+      "frame_index": 240,
+      "time_sec": 1.0,
+      "corners": [
+        [
+          62.0,
+          617.0
+        ],
+        [
+          1085.0,
+          612.0
+        ],
+        [
+          1018.0,
+          1720.0
+        ],
+        [
+          18.0,
+          1616.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 480,
+      "frame_index": 480,
+      "time_sec": 2.0,
+      "corners": [
+        [
+          56.0,
+          707.0
+        ],
+        [
+          1059.0,
+          698.0
+        ],
+        [
+          1018.0,
+          1795.0
+        ],
+        [
+          13.0,
+          1699.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 720,
+      "frame_index": 720,
+      "time_sec": 3.0,
+      "corners": [
+        [
+          60.0,
+          869.0
+        ],
+        [
+          1040.0,
+          839.0
+        ],
+        [
+          1025.0,
+          1930.0
+        ],
+        [
+          0.0,
+          1849.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 960,
+      "frame_index": 960,
+      "time_sec": 4.0,
+      "corners": [
+        [
+          65.0,
+          923.0
+        ],
+        [
+          1040.0,
+          888.0
+        ],
+        [
+          1037.0,
+          1988.0
+        ],
+        [
+          7.0,
+          1909.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1200,
+      "frame_index": 1200,
+      "time_sec": 5.0,
+      "corners": [
+        [
+          82.0,
+          914.0
+        ],
+        [
+          1052.0,
+          880.0
+        ],
+        [
+          1054.0,
+          1973.0
+        ],
+        [
+          20.0,
+          1896.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1440,
+      "frame_index": 1440,
+      "time_sec": 6.0,
+      "corners": [
+        [
+          105.0,
+          910.0
+        ],
+        [
+          1072.0,
+          908.0
+        ],
+        [
+          1039.0,
+          2003.0
+        ],
+        [
+          15.0,
+          1887.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 1680,
+      "frame_index": 1680,
+      "time_sec": 7.0,
+      "corners": [
+        [
+          125.0,
+          905.0
+        ],
+        [
+          1097.0,
+          935.0
+        ],
+        [
+          1018.0,
+          2041.0
+        ],
+        [
+          -5.405029296875,
+          1877.59033203125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        41.0,
+        1885.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 1920,
+      "frame_index": 1920,
+      "time_sec": 8.0,
+      "corners": [
+        [
+          131.0,
+          878.0
+        ],
+        [
+          1104.0,
+          944.0
+        ],
+        [
+          982.0,
+          2054.0
+        ],
+        [
+          -36.51470947265625,
+          1847.063720703125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        37.0,
+        1862.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2160,
+      "frame_index": 2160,
+      "time_sec": 9.0,
+      "corners": [
+        [
+          124.0,
+          861.0
+        ],
+        [
+          1097.0,
+          933.0
+        ],
+        [
+          971.0,
+          2052.0
+        ],
+        [
+          -48.8355712890625,
+          1849.34033203125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        35.0,
+        1866.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2400,
+      "frame_index": 2400,
+      "time_sec": 10.0,
+      "corners": [
+        [
+          99.0,
+          890.0
+        ],
+        [
+          1072.0,
+          948.0
+        ],
+        [
+          967.0,
+          2052.0
+        ],
+        [
+          -56.18316650390625,
+          1872.655517578125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        77.0,
+        1896.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2640,
+      "frame_index": 2640,
+      "time_sec": 11.0,
+      "corners": [
+        [
+          82.0,
+          950.0
+        ],
+        [
+          1050.0,
+          970.0
+        ],
+        [
+          988.0,
+          2084.0
+        ],
+        [
+          -35.34027099609375,
+          1951.88623046875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        43.0,
+        1962.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 2880,
+      "frame_index": 2880,
+      "time_sec": 12.0,
+      "corners": [
+        [
+          80.0,
+          1004.0
+        ],
+        [
+          1010.0,
+          993.0
+        ],
+        [
+          999.0,
+          2074.0
+        ],
+        [
+          10.92205810546875,
+          1995.5810546875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        54.0,
+        1999.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 3120,
+      "frame_index": 3120,
+      "time_sec": 13.0,
+      "corners": [
+        [
+          82.0,
+          1040.0
+        ],
+        [
+          999.0,
+          1010.0
+        ],
+        [
+          1031.0,
+          2076.0
+        ],
+        [
+          53.8204345703125,
+          2041.62158203125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        93.0,
+        2043.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 3360,
+      "frame_index": 3360,
+      "time_sec": 14.0,
+      "corners": [
+        [
+          99.0,
+          1049.0
+        ],
+        [
+          1016.0,
+          998.0
+        ],
+        [
+          1059.0,
+          2091.0
+        ],
+        [
+          81.404296875,
+          2043.03857421875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        101.0,
+        2044.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 3600,
+      "frame_index": 3600,
+      "time_sec": 15.0,
+      "corners": [
+        [
+          116.0,
+          1045.0
+        ],
+        [
+          1044.0,
+          1000.0
+        ],
+        [
+          1057.0,
+          2099.0
+        ],
+        [
+          68.89532470703125,
+          2035.44970703125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        93.0,
+        2037.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 3840,
+      "frame_index": 3840,
+      "time_sec": 16.0,
+      "corners": [
+        [
+          133.0,
+          1030.0
+        ],
+        [
+          1055.0,
+          1015.0
+        ],
+        [
+          1048.0,
+          2103.0
+        ],
+        [
+          69.9434814453125,
+          2007.3770751953125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        107.0,
+        2011.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4080,
+      "frame_index": 4080,
+      "time_sec": 17.0,
+      "corners": [
+        [
+          140.0,
+          1000.0
+        ],
+        [
+          1085.0,
+          1012.0
+        ],
+        [
+          1037.0,
+          2104.0
+        ],
+        [
+          37.75372314453125,
+          1977.811767578125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        63.0,
+        1981.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4320,
+      "frame_index": 4320,
+      "time_sec": 18.0,
+      "corners": [
+        [
+          152.0,
+          978.0
+        ],
+        [
+          1091.0,
+          1010.0
+        ],
+        [
+          1001.0,
+          2112.0
+        ],
+        [
+          14.2037353515625,
+          1942.2625732421875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        65.0,
+        1951.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4560,
+      "frame_index": 4560,
+      "time_sec": 19.0,
+      "corners": [
+        [
+          140.0,
+          955.0
+        ],
+        [
+          1087.0,
+          1000.0
+        ],
+        [
+          993.0,
+          2101.0
+        ],
+        [
+          -3.5377197265625,
+          1934.3763427734375
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        60.0,
+        1945.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 4800,
+      "frame_index": 4800,
+      "time_sec": 20.0,
+      "corners": [
+        [
+          131.0,
+          942.0
+        ],
+        [
+          1080.0,
+          1000.0
+        ],
+        [
+          975.0,
+          2093.0
+        ],
+        [
+          -21.854736328125,
+          1911.45361328125
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        69.0,
+        1928.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5040,
+      "frame_index": 5040,
+      "time_sec": 21.0,
+      "corners": [
+        [
+          120.0,
+          937.0
+        ],
+        [
+          1070.0,
+          967.0
+        ],
+        [
+          988.0,
+          2067.0
+        ],
+        [
+          -15.31597900390625,
+          1927.738525390625
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        37.0,
+        1935.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5280,
+      "frame_index": 5280,
+      "time_sec": 22.0,
+      "corners": [
+        [
+          108.0,
+          912.0
+        ],
+        [
+          1063.0,
+          916.0
+        ],
+        [
+          1020.0,
+          2020.0
+        ],
+        [
+          10.0426025390625,
+          1894.1552734375
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        73.0,
+        1902.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5520,
+      "frame_index": 5520,
+      "time_sec": 23.0,
+      "corners": [
+        [
+          84.0,
+          905.0
+        ],
+        [
+          1040.0,
+          878.0
+        ],
+        [
+          1039.0,
+          1973.0
+        ],
+        [
+          23.1746826171875,
+          1889.7529296875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        75.0,
+        1894.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 5760,
+      "frame_index": 5760,
+      "time_sec": 24.0,
+      "corners": [
+        [
+          69.0,
+          938.0
+        ],
+        [
+          1025.0,
+          856.0
+        ],
+        [
+          1076.0,
+          1964.0
+        ],
+        [
+          54.2103271484375,
+          1924.1763916015625
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        101.0,
+        1926.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 6000,
+      "frame_index": 6000,
+      "time_sec": 25.0,
+      "corners": [
+        [
+          58.0,
+          976.0
+        ],
+        [
+          1003.0,
+          869.0
+        ],
+        [
+          1102.0,
+          1967.0
+        ],
+        [
+          88.4632568359375,
+          1967.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        133.0,
+        1967.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 6240,
+      "frame_index": 6240,
+      "time_sec": 26.0,
+      "corners": [
+        [
+          65.0,
+          959.0
+        ],
+        [
+          1025.0,
+          835.0
+        ],
+        [
+          1117.0,
+          1964.0
+        ],
+        [
+          85.7064208984375,
+          1939.41748046875
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        236.0,
+        1943.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 6480,
+      "frame_index": 6480,
+      "time_sec": 27.0,
+      "corners": [
+        [
+          97.0,
+          856.0
+        ],
+        [
+          1052.0,
+          805.0
+        ],
+        [
+          1059.0,
+          1881.0
+        ],
+        [
+          78.0,
+          1828.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6720,
+      "frame_index": 6720,
+      "time_sec": 28.0,
+      "corners": [
+        [
+          127.0,
+          771.0
+        ],
+        [
+          1099.0,
+          769.0
+        ],
+        [
+          1027.0,
+          1887.0
+        ],
+        [
+          31.0,
+          1751.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 6960,
+      "frame_index": 6960,
+      "time_sec": 29.0,
+      "corners": [
+        [
+          118.0,
+          726.0
+        ],
+        [
+          1102.0,
+          760.0
+        ],
+        [
+          982.0,
+          1849.0
+        ],
+        [
+          -25.47735595703125,
+          1701.2222900390625
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "3-point-guide-infer-bl",
+      "inferred_missing_corner": "BL",
+      "guide_point": [
+        48.0,
+        1712.0
+      ],
+      "note": "BL inferred from BR->guide direction and expected bottom edge length."
+    },
+    {
+      "processed": 7200,
+      "frame_index": 7200,
+      "time_sec": 30.0,
+      "corners": [
+        [
+          84.0,
+          724.0
+        ],
+        [
+          1069.0,
+          719.0
+        ],
+        [
+          999.0,
+          1806.0
+        ],
+        [
+          9.0,
+          1705.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7440,
+      "frame_index": 7440,
+      "time_sec": 31.0,
+      "corners": [
+        [
+          48.0,
+          752.0
+        ],
+        [
+          1029.0,
+          683.0
+        ],
+        [
+          1029.0,
+          1782.0
+        ],
+        [
+          39.0,
+          1729.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7680,
+      "frame_index": 7680,
+      "time_sec": 32.0,
+      "corners": [
+        [
+          54.0,
+          766.0
+        ],
+        [
+          1031.0,
+          681.0
+        ],
+        [
+          1052.0,
+          1783.0
+        ],
+        [
+          62.0,
+          1750.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    },
+    {
+      "processed": 7920,
+      "frame_index": 7920,
+      "time_sec": 33.0,
+      "corners": [
+        [
+          80.0,
+          751.0
+        ],
+        [
+          1057.0,
+          700.0
+        ],
+        [
+          1037.0,
+          1812.0
+        ],
+        [
+          43.0,
+          1725.0
+        ]
+      ],
+      "source": "manual",
+      "pick_mode": "4-point",
+      "inferred_missing_corner": null,
+      "guide_point": null,
+      "note": null
+    }
+  ]
+}
