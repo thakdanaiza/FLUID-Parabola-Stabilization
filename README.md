@@ -1,5 +1,7 @@
 # FLUID-Parabola-Stabilization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23713135.svg)](https://doi.org/10.5281/zenodo.23713135)
+
 UI-driven standalone reproduction of the retained V06 flight-video preparation.
 It contains only the stabilization/correction code, retained V06 annotations,
 and the fixed WR000001 calibration arrays. It does not contain chromatic-activity
@@ -20,4 +22,15 @@ The expected quantitative output is
 The bundled annotations are specific to the 8097-frame N21 camera-calibrated
 record. The runner refuses a video with a different frame size/count/FPS instead
 of silently applying the V06 geometry to another recording.
+
+## Citation
+
+If you use this software, cite the archived v1.0.0 release:
+
+> Sirisombat, T. (2026). FLUID-Parabola Stabilization (v1.0.0).
+> Zenodo. https://doi.org/10.5281/zenodo.23713136
+
+The version-independent DOI for this software is
+https://doi.org/10.5281/zenodo.23713135. Citation metadata is also available in
+`CITATION.cff`.
 
