@@ -25,10 +25,10 @@ of silently applying the V06 geometry to another recording.
 
 ## Citation
 
-If you use this software, cite the archived v1.0.0 release:
+If you use this software, cite the archived v1.0.1 release:
 
-> Sirisombat, T. (2026). FLUID-Parabola Stabilization (v1.0.0).
-> Zenodo. https://doi.org/10.5281/zenodo.23713136
+> Sirisombat, T. (2026). FLUID-Parabola Stabilization (v1.0.1).
+> Zenodo. https://doi.org/10.5281/zenodo.23719668
 
 The version-independent DOI for this software is
 https://doi.org/10.5281/zenodo.23713135. Citation metadata is also available in
